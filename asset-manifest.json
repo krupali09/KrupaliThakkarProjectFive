@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/KrupaliThakkarProjectFive/static/css/main.14e0ffd9.chunk.css",
+    "main.css": "/KrupaliThakkarProjectFive/static/css/main.b6ddf4e8.chunk.css",
     "main.js": "/KrupaliThakkarProjectFive/static/js/main.9398121b.chunk.js",
     "main.js.map": "/KrupaliThakkarProjectFive/static/js/main.9398121b.chunk.js.map",
     "runtime-main.js": "/KrupaliThakkarProjectFive/static/js/runtime-main.01c80a16.js",
@@ -8,15 +8,15 @@
     "static/js/2.6fca65e1.chunk.js": "/KrupaliThakkarProjectFive/static/js/2.6fca65e1.chunk.js",
     "static/js/2.6fca65e1.chunk.js.map": "/KrupaliThakkarProjectFive/static/js/2.6fca65e1.chunk.js.map",
     "index.html": "/KrupaliThakkarProjectFive/index.html",
-    "precache-manifest.82f79cc42b40fd96ea1ce1e6ac2db847.js": "/KrupaliThakkarProjectFive/precache-manifest.82f79cc42b40fd96ea1ce1e6ac2db847.js",
+    "precache-manifest.a440303652be700ea843233382984156.js": "/KrupaliThakkarProjectFive/precache-manifest.a440303652be700ea843233382984156.js",
     "service-worker.js": "/KrupaliThakkarProjectFive/service-worker.js",
-    "static/css/main.14e0ffd9.chunk.css.map": "/KrupaliThakkarProjectFive/static/css/main.14e0ffd9.chunk.css.map",
+    "static/css/main.b6ddf4e8.chunk.css.map": "/KrupaliThakkarProjectFive/static/css/main.b6ddf4e8.chunk.css.map",
     "static/js/2.6fca65e1.chunk.js.LICENSE.txt": "/KrupaliThakkarProjectFive/static/js/2.6fca65e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.01c80a16.js",
     "static/js/2.6fca65e1.chunk.js",
-    "static/css/main.14e0ffd9.chunk.css",
+    "static/css/main.b6ddf4e8.chunk.css",
     "static/js/main.9398121b.chunk.js"
   ]
 }
