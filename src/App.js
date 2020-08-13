@@ -25,7 +25,7 @@ class App extends Component {
   handleSearch = (event, userSelection) => {
     event.preventDefault()
     axios({
-      url: `http://api.giphy.com/v1/gifs/search?`,
+      url: `https://api.giphy.com/v1/gifs/search?`,
       method: `GET`,
       responseType: `JSON`,
       params: {
