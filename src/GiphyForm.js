@@ -14,6 +14,7 @@ class GiphyForm extends Component {
     }
 
     handleChange = (event) => {
+        event.preventDefault();
         this.setState({
             search: event.target.value
         });

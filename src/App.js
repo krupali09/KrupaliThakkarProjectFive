@@ -6,12 +6,12 @@
 //Render the method after the constructor
 //Render the images on the page
 
-
-
 import React, { Component } from 'react';
 import axios from 'axios';
 import GiphyList from './GiphyList';
+import Footer from './Footer'
 import './App.css';
+
 
 class App extends Component {
 
@@ -31,10 +31,9 @@ class App extends Component {
       params: {
         api_key: `dAuwo6dniKEMHLAGEmCjv6bYaWyVN5em`,
         q: userSelection,
-        limit: 6
+        limit: 15
       }
     }).then((response) => {
-      console.log(response.data.data);
       this.setState({
         gif: response.data.data
       })
@@ -48,25 +47,27 @@ class App extends Component {
     })
   }
 
-
   render() {
     return (
       <div className="wrapper">
         <h1>Search Your Favourite Gif</h1>
         <GiphyList handleSearch={this.handleSearch} />
         <div className="gifParent">
-        
-        {
-          this.state.gif.map((giphy) => {
-            return ( 
+          {
+            this.state.gif.map((giphy) => {
+              return (
                 <img src={giphy.images.downsized_large.url} alt={giphy.title} />
-            );
-          })
-        }
+              );
+            })
+          }
+
         </div>
+        <Footer />
       </div>
+      
     );
   }
 }
+
 
 export default App;
