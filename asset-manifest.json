@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/KrupaliThakkarProjectFive/static/css/main.b6ddf4e8.chunk.css",
-    "main.js": "/KrupaliThakkarProjectFive/static/js/main.9398121b.chunk.js",
-    "main.js.map": "/KrupaliThakkarProjectFive/static/js/main.9398121b.chunk.js.map",
+    "main.css": "/KrupaliThakkarProjectFive/static/css/main.4f9e5d68.chunk.css",
+    "main.js": "/KrupaliThakkarProjectFive/static/js/main.09f02234.chunk.js",
+    "main.js.map": "/KrupaliThakkarProjectFive/static/js/main.09f02234.chunk.js.map",
     "runtime-main.js": "/KrupaliThakkarProjectFive/static/js/runtime-main.01c80a16.js",
     "runtime-main.js.map": "/KrupaliThakkarProjectFive/static/js/runtime-main.01c80a16.js.map",
     "static/js/2.6fca65e1.chunk.js": "/KrupaliThakkarProjectFive/static/js/2.6fca65e1.chunk.js",
     "static/js/2.6fca65e1.chunk.js.map": "/KrupaliThakkarProjectFive/static/js/2.6fca65e1.chunk.js.map",
     "index.html": "/KrupaliThakkarProjectFive/index.html",
-    "precache-manifest.a440303652be700ea843233382984156.js": "/KrupaliThakkarProjectFive/precache-manifest.a440303652be700ea843233382984156.js",
+    "precache-manifest.ee46a250ceb6e1b8c7c71910d45ddb84.js": "/KrupaliThakkarProjectFive/precache-manifest.ee46a250ceb6e1b8c7c71910d45ddb84.js",
     "service-worker.js": "/KrupaliThakkarProjectFive/service-worker.js",
-    "static/css/main.b6ddf4e8.chunk.css.map": "/KrupaliThakkarProjectFive/static/css/main.b6ddf4e8.chunk.css.map",
+    "static/css/main.4f9e5d68.chunk.css.map": "/KrupaliThakkarProjectFive/static/css/main.4f9e5d68.chunk.css.map",
     "static/js/2.6fca65e1.chunk.js.LICENSE.txt": "/KrupaliThakkarProjectFive/static/js/2.6fca65e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.01c80a16.js",
     "static/js/2.6fca65e1.chunk.js",
-    "static/css/main.b6ddf4e8.chunk.css",
-    "static/js/main.9398121b.chunk.js"
+    "static/css/main.4f9e5d68.chunk.css",
+    "static/js/main.09f02234.chunk.js"
   ]
 }
